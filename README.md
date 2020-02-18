@@ -12,4 +12,4 @@ test                           Build project as docker image for running tests a
 help                           Display this help screen
 ```
 
-Stipe Ćirko - cirko502@gmail.com
+Stipe Čirko - cirko502@gmail.com
